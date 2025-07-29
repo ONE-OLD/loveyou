@@ -14,7 +14,7 @@ let isPasswordModalOpen = false;
 let isModalOpen = false;
 
 // Password configuration
-const correctPassword = 'loveyou';
+const correctPassword = 'iloveyou';
 
 // Heart SVG template
 const heartSVG = `
